@@ -137,3 +137,36 @@ h1 {
 .pricing-column{
     padding: 3% 2%;
 }
+
+#cta {
+    background-color: var(--santa-red-alfa);
+    color: #fff;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
+}
+
+#cta button{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+#cta h3{
+    font-size: 3.5rem;
+    font-weight: 900;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+#footer{
+    margin-top: 5rem;
+    text-align: center;
+}
+
+#footer p{
+    margin-top: 1rem;
+}
+
+#footer a{
+    padding: 0.4rem;
+}
